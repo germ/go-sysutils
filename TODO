@@ -1,0 +1,10 @@
+ls.go
+
+Nicer flag parsing
+Color output support
+Manipulation of output, drwx bits, etc.
+
+pwd.go
+
+Nicer formatting
+Relative path
