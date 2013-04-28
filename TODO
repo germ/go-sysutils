@@ -1,17 +1,8 @@
-* ls.go
-
-Nicer flag parsing
-Color output support
+ls.go
 Manipulation of output, drwx bits, etc.
 
-* pwd.go
-
-Nicer formatting
+pwd.go
 Relative path
 
-Tools i want to add:
-ping
-cp
-cat
-mkdir
-ln
+Create a makefile that traverses all directories building
+binaries and moving them to a local bin directory
